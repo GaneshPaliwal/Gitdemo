@@ -1,4 +1,3 @@
-package git.org;
 
 public class Git1 {
 
